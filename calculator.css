@@ -1,0 +1,51 @@
+#outline {
+    height: 500px;
+    width: 500px;
+    /* border: 20px, solid, red; */
+    background-color: #E2E0E0;
+    margin-top: 0%;
+    position: fixed;
+}
+
+#caluculator-heading {
+    height: 40px;
+    width: 480px;
+    color: seashell;
+    background-color: rgb(0, 0, 0);
+    font-size: 2rem;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 2px;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#name {
+    margin-left: 160px;
+}
+
+#screen {
+    margin-top: 15px;
+    height: 90px;
+    width: 480px;
+    margin-left: 10px;
+    background-color: tomato;
+    border-radius: 6px;
+}
+
+#buttons {
+    margin-left: 10px;
+    margin-top: 15px;
+    height: 300px;
+    width: 480px;
+    background-color: rgb(150, 170, 190);
+}
+
+.button-property {
+    width: 117px;
+    background-color: rgb(211, 166, 76);
+    border: 2px solid red;
+    border-radius: 2px;
+    font-weight: 900;
+    color: seashell;
+}
